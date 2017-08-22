@@ -1,0 +1,29 @@
+/* -- COLOR PALLET --
+
+
+red - #EF3E36
+light blue - #85C7F2
+grey blue - #3F88C5
+teal - #00A6ED
+orange - #FF7733
+
+
+light grey - #D1D1D1;
+dark liver - #4C4C4C
+
+--- */
+
+
+
+html,body
+{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	background-color: #D1D1D1;
+	font-family: 'Roboto', sans-serif;
+}
